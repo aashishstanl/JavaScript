@@ -66,7 +66,7 @@ search.addEventListener('keyup', () => {
 });
 
 Name.addEventListener('copy', e => {
-    Name.textContent = 'Madharchod apna bna na jakr,bhodiwala!';
+    Name.textContent = 'Thank you  for copying!';
     Name.style.color ='whitesmoke';
 });
 
